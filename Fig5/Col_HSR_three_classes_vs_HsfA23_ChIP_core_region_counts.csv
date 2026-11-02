@@ -1,0 +1,16 @@
+"ChIP_set","Region","n_genes"
+"core","Acute",661
+"core","Sustained",596
+"core","Delayed",1124
+"core","ChIP",10
+"core","Acute&ChIP",3
+"core","Sustained&ChIP",27
+"core","Delayed&ChIP",5
+"core","Acute&Sustained",0
+"core","Acute&Delayed",0
+"core","Sustained&Delayed",0
+"core","Acute&Sustained&Delayed",0
+"core","Acute&Sustained&ChIP",0
+"core","Acute&Delayed&ChIP",0
+"core","Sustained&Delayed&ChIP",0
+"core","Acute&Sustained&Delayed&ChIP",0
