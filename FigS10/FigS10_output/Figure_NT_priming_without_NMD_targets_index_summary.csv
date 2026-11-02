@@ -1,0 +1,71 @@
+"variant","group","n","median_priming_index","lab"
+"All genes
+(0 of 2358 HSR genes removed)","All HSR classes",2358,0.201441970312832,"20%"
+"All genes
+(0 of 2358 HSR genes removed)","Transient (acute)",641,0.269208976721328,"27%"
+"All genes
+(0 of 2358 HSR genes removed)","Transient (acute), ChIP-bound",11,-0.221374123180916,"-22%"
+"All genes
+(0 of 2358 HSR genes removed)","Transient (acute), not bound",630,0.275810168595381,"28%"
+"All genes
+(0 of 2358 HSR genes removed)","Sustained",589,0.185796271685766,"19%"
+"All genes
+(0 of 2358 HSR genes removed)","Sustained, ChIP-bound",96,-0.0306791460715394,"-3%"
+"All genes
+(0 of 2358 HSR genes removed)","Sustained, not bound",493,0.247858120171652,"25%"
+"All genes
+(0 of 2358 HSR genes removed)","Delayed",1128,0.155077309954939,"16%"
+"All genes
+(0 of 2358 HSR genes removed)","Delayed, ChIP-bound",54,-0.0850133984411552,"-9%"
+"All genes
+(0 of 2358 HSR genes removed)","Delayed, not bound",1074,0.176712455543036,"18%"
+"Without empirical NMD targets
+(53 of 2358 HSR genes removed)","All HSR classes",2305,0.196363475994068,"20%"
+"Without empirical NMD targets
+(53 of 2358 HSR genes removed)","Transient (acute)",630,0.266651403631492,"27%"
+"Without empirical NMD targets
+(53 of 2358 HSR genes removed)","Transient (acute), ChIP-bound",11,-0.221374123180916,"-22%"
+"Without empirical NMD targets
+(53 of 2358 HSR genes removed)","Transient (acute), not bound",619,0.269208976721328,"27%"
+"Without empirical NMD targets
+(53 of 2358 HSR genes removed)","Sustained",583,0.185776160677299,"19%"
+"Without empirical NMD targets
+(53 of 2358 HSR genes removed)","Sustained, ChIP-bound",95,-0.030748699872847,"-3%"
+"Without empirical NMD targets
+(53 of 2358 HSR genes removed)","Sustained, not bound",488,0.246642915031236,"25%"
+"Without empirical NMD targets
+(53 of 2358 HSR genes removed)","Delayed",1092,0.15211412745326,"15%"
+"Without empirical NMD targets
+(53 of 2358 HSR genes removed)","Delayed, ChIP-bound",52,-0.107792214910897,"-11%"
+"Without empirical NMD targets
+(53 of 2358 HSR genes removed)","Delayed, not bound",1040,0.170436814707782,"17%"
+"Without empirical targets,
+3'UTR-intron and uORF genes
+(304 of 2358 HSR genes removed)","All HSR classes",2054,0.185786216181532,"19%"
+"Without empirical targets,
+3'UTR-intron and uORF genes
+(304 of 2358 HSR genes removed)","Transient (acute)",562,0.260712748641325,"26%"
+"Without empirical targets,
+3'UTR-intron and uORF genes
+(304 of 2358 HSR genes removed)","Transient (acute), ChIP-bound",10,-0.256077346118097,"-26%"
+"Without empirical targets,
+3'UTR-intron and uORF genes
+(304 of 2358 HSR genes removed)","Transient (acute), not bound",552,0.266651403631492,"27%"
+"Without empirical targets,
+3'UTR-intron and uORF genes
+(304 of 2358 HSR genes removed)","Sustained",519,0.165526505516923,"17%"
+"Without empirical targets,
+3'UTR-intron and uORF genes
+(304 of 2358 HSR genes removed)","Sustained, ChIP-bound",86,-0.0385670256749518,"-4%"
+"Without empirical targets,
+3'UTR-intron and uORF genes
+(304 of 2358 HSR genes removed)","Sustained, not bound",433,0.226414956719266,"23%"
+"Without empirical targets,
+3'UTR-intron and uORF genes
+(304 of 2358 HSR genes removed)","Delayed",973,0.141095808302908,"14%"
+"Without empirical targets,
+3'UTR-intron and uORF genes
+(304 of 2358 HSR genes removed)","Delayed, ChIP-bound",46,-0.126059581615814,"-13%"
+"Without empirical targets,
+3'UTR-intron and uORF genes
+(304 of 2358 HSR genes removed)","Delayed, not bound",927,0.153253526528632,"15%"

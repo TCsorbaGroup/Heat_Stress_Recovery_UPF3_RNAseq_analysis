@@ -1,0 +1,9 @@
+"item","n_genes"
+"WT/Col-0 HSR-responsive genes (LAT OR REC)",2416
+"Genes significantly >=2-fold higher in upf3 than WT at NT",606
+"Selected genes intersecting HSR-responsive set",227
+"Selected genes with valid TAIR IDs",204
+"Selected genes without GO BP annotation",60
+"Selected genes used as GO BP foreground",144
+"All TAIR IDs in org.At.tair.db",27416
+"Full Arabidopsis GO BP-annotated background",21192

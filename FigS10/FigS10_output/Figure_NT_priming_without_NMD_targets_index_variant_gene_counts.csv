@@ -1,0 +1,8 @@
+"variant","n_HSR_genes_before","n_HSR_genes_removed","n_HSR_genes_remaining"
+"All genes
+(0 of 2358 HSR genes removed)",2358,0,2358
+"Without empirical NMD targets
+(53 of 2358 HSR genes removed)",2358,53,2305
+"Without empirical targets,
+3'UTR-intron and uORF genes
+(304 of 2358 HSR genes removed)",2358,304,2054
