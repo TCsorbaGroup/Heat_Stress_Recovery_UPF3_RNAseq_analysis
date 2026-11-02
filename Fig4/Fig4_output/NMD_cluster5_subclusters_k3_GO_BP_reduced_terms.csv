@@ -1,0 +1,13 @@
+"Subcluster","GO_ID","Description","p.adjust","Count","GeneRatio","n_terms_collapsed","log10FDR"
+1,"GO:0009451","RNA modification",9.12650654989447e-05,9,"9/47",2,4.03969543018107
+2,"GO:0044419","biological process involved in interspecies interaction between organisms",4.53948938790286e-14,36,"36/72",3,13.3429929948274
+2,"GO:0009607","response to biotic stimulus",4.53948938790286e-14,36,"36/72",4,13.3429929948274
+2,"GO:0043207","response to external biotic stimulus",4.53948938790286e-14,36,"36/72",14,13.3429929948274
+2,"GO:0007165","signal transduction",1.58874233426758e-11,30,"30/72",6,10.7989465319176
+2,"GO:0007154","cell communication",1.60465940294128e-11,30,"30/72",3,10.7946171346737
+2,"GO:0023052","signaling",1.81215511118949e-11,30,"30/72",2,10.7418046316865
+2,"GO:0002376","immune system process",2.54933357672352e-10,16,"16/72",4,9.59357333398862
+2,"GO:0051716","cellular response to stimulus",3.11583999908354e-08,38,"38/72",4,7.50642485180153
+2,"GO:0080134","regulation of response to stress",5.33782781083084e-07,15,"15/72",9,6.27263543991759
+2,"GO:0009751","response to salicylic acid",0.00100222404162564,9,"9/72",5,2.99903518349325
+3,"GO:0140546","defense response to symbiont",0.0369300163863648,9,"9/66",2,1.43262049964644

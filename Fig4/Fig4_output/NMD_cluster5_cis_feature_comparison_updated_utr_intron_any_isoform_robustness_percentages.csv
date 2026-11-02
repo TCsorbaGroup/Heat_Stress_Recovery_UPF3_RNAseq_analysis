@@ -1,0 +1,5 @@
+"Feature","Group","n_total","n_positive","n_negative","percentage"
+"3'UTR intron (any isoform)","Bg",18544,2569,15975,13.8535375323555
+"3'UTR intron (any isoform)","5/1",54,11,43,20.3703703703704
+"3'UTR intron (any isoform)","5/2",90,11,79,12.2222222222222
+"3'UTR intron (any isoform)","5/3",79,9,70,11.3924050632911

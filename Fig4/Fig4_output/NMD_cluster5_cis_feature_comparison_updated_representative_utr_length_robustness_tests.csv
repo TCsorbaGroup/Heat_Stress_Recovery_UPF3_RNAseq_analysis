@@ -1,0 +1,4 @@
+"Feature","Group","n_background","n_subcluster","median_background","median_subcluster","p_value","p_adj_BH","p_for_label","significance"
+"Representative-transcript 3'UTR length","5/1",18544,54,264,269,0.817658989164086,0.817658989164086,0.817658989164086,"ns"
+"Representative-transcript 3'UTR length","5/2",18544,90,264,222.5,0.000805822799214199,0.0024174683976426,0.0024174683976426,"**"
+"Representative-transcript 3'UTR length","5/3",18544,79,264,213,0.0070286555054624,0.0105429832581936,0.0105429832581936,"*"

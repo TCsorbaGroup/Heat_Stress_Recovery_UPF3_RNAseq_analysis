@@ -1,0 +1,4 @@
+"Feature","Group","n_background","background_positive","n_subcluster","subcluster_positive","odds_ratio_subcluster_vs_background","CI_low","CI_high","p_value","p_adj_BH","p_for_label","significance"
+"3'UTR intron (representative transcript)","5/1",18544,804,54,3,1.29789973989927,0.258549555945385,4.02665494679519,0.508287111388903,0.597387791872131,0.597387791872131,"ns"
+"3'UTR intron (representative transcript)","5/2",18544,804,90,5,1.29789982018564,0.409766353068981,3.16219412412504,0.597387791872131,0.597387791872131,0.597387791872131,"ns"
+"3'UTR intron (representative transcript)","5/3",18544,804,79,7,2.14503788549294,0.830057172753197,4.67081343068493,0.0856478365258372,0.256943509577512,0.256943509577512,"ns"

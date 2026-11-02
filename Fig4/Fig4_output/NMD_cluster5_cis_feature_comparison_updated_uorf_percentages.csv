@@ -1,0 +1,5 @@
+"Feature","Group","n_total","n_positive","n_negative","percentage"
+"RiboTaper uORF","Bg",17347,1742,15605,10.0420822044157
+"RiboTaper uORF","5/1",25,7,18,28
+"RiboTaper uORF","5/2",34,0,34,0
+"RiboTaper uORF","5/3",47,10,37,21.2765957446809

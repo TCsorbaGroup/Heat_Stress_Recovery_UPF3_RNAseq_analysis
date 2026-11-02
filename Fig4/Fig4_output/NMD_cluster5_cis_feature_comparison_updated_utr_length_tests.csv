@@ -1,0 +1,4 @@
+"Feature","Group","n_background","n_subcluster","median_background","median_subcluster","p_value","p_adj_BH","p_for_label","significance"
+"Maximum annotated 3'UTR length","5/1",18544,54,291.5,289,0.649331242765114,0.649331242765114,0.649331242765114,"ns"
+"Maximum annotated 3'UTR length","5/2",18544,90,291.5,237.5,0.0026446793349532,0.00793403800485959,0.00793403800485959,"**"
+"Maximum annotated 3'UTR length","5/3",18544,79,291.5,240,0.0416783167711014,0.062517475156652,0.062517475156652,"ns"

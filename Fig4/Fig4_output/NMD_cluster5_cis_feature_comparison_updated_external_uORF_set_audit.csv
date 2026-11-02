@@ -1,0 +1,5 @@
+"definition","n_unique_external_genes","n_in_analysis_universe","n_in_Ribo_detectable_set","n_in_both_universe_and_detectable"
+"Ribo-seq uORF (RiboTaper)",1785,1759,1669,1652
+"Ribo-seq uORF (CiPS)",4544,4490,4375,4330
+"Ribo-seq uORF (CiPS, >=10 aa)",2805,2774,2654,2629
+"Ribo-seq uORF (RiboTaper or CiPS)",4734,4671,4530,4482

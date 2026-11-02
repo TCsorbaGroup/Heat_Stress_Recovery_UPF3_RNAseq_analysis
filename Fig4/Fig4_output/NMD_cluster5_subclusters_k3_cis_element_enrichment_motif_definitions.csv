@@ -1,0 +1,13 @@
+"Element","Pattern","ElementClass"
+"W-box
+(WRKY)","TTGACY","Candidate element"
+"as-1
+(TGA)","TGACG","Candidate element"
+"HSE","NGAANNTTCN","Candidate element"
+"GCC-box","AGCCGCC","Candidate element"
+"ABRE","ACGTGKC","Candidate element"
+"DRE/CRT","RCCGAC","Candidate element"
+"TCA-element","CCATCTTTTT","Candidate element"
+"TATA-box","TATAWAWR","Reference"
+"CAAT-box","CCAAT","Reference"
+"GC-box","GGGCGG","Reference"
