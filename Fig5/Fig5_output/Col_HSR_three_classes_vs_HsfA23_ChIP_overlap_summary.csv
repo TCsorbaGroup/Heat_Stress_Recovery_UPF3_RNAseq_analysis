@@ -1,0 +1,7 @@
+"ChIP_set","HSR_class","n_HSR_genes","n_in_ChIP","n_not_in_ChIP","pct_in_ChIP"
+"all relevant: c7/c11/c12/c14","Acute",664,11,653,1.6566265060241
+"all relevant: c7/c11/c12/c14","Sustained",623,100,523,16.0513643659711
+"all relevant: c7/c11/c12/c14","Delayed",1129,54,1075,4.78299379982285
+"core: c12/c14","Acute",664,3,661,0.451807228915663
+"core: c12/c14","Sustained",623,27,596,4.3338683788122
+"core: c12/c14","Delayed",1129,5,1124,0.442869796279894

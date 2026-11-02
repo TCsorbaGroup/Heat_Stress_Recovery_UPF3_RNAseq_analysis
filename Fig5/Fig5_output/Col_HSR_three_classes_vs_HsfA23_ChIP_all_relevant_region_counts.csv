@@ -1,0 +1,16 @@
+"ChIP_set","Region","n_genes"
+"all_relevant","Acute",653
+"all_relevant","Sustained",523
+"all_relevant","Delayed",1075
+"all_relevant","ChIP",215
+"all_relevant","Acute&ChIP",11
+"all_relevant","Sustained&ChIP",100
+"all_relevant","Delayed&ChIP",54
+"all_relevant","Acute&Sustained",0
+"all_relevant","Acute&Delayed",0
+"all_relevant","Sustained&Delayed",0
+"all_relevant","Acute&Sustained&Delayed",0
+"all_relevant","Acute&Sustained&ChIP",0
+"all_relevant","Acute&Delayed&ChIP",0
+"all_relevant","Sustained&Delayed&ChIP",0
+"all_relevant","Acute&Sustained&Delayed&ChIP",0
