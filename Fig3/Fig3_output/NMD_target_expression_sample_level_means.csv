@@ -1,0 +1,37 @@
+"GeneGroup","Genotype","Treatment","Sample","sample_mean_expr","n_genes"
+"All other genes","Col-0","NT","Col_NT_1_sorted.bam",6.18741190697737,19827
+"All other genes","Col-0","NT","Col_NT_2_sorted.bam",6.1984462617386,19827
+"All other genes","Col-0","NT","Col_NT_3_sorted.bam",6.17135194894511,19827
+"All other genes","Col-0","P/T","Col_LAT_1_sorted.bam",6.25105554654746,19827
+"All other genes","Col-0","P/T","Col_LAT_2_sorted.bam",6.26094936068199,19827
+"All other genes","Col-0","P/T","Col_LAT_3_sorted.bam",6.25735061046407,19827
+"All other genes","Col-0","P/T +1d","Col_REC_1_sorted.bam",6.21515570416699,19827
+"All other genes","Col-0","P/T +1d","Col_REC_2_sorted.bam",6.24525971558884,19827
+"All other genes","Col-0","P/T +1d","Col_REC_3_sorted.bam",6.24280340729811,19827
+"All other genes","upf3","NT","UPF3_NT_1_sorted.bam",6.19880648976877,19827
+"All other genes","upf3","NT","UPF3_NT_2_sorted.bam",6.17974940005414,19827
+"All other genes","upf3","NT","UPF3_NT_3_sorted.bam",6.13993674114985,19827
+"All other genes","upf3","P/T","UPF3_LAT_1_sorted.bam",6.23346361851696,19827
+"All other genes","upf3","P/T","UPF3_LAT_2_sorted.bam",6.23959028271422,19827
+"All other genes","upf3","P/T","UPF3_LAT_3_sorted.bam",6.24194980105684,19827
+"All other genes","upf3","P/T +1d","UPF3_REC_1_sorted.bam",6.23028638651092,19827
+"All other genes","upf3","P/T +1d","UPF3_REC_2_sorted.bam",6.22592974231643,19827
+"All other genes","upf3","P/T +1d","UPF3_REC_3_sorted.bam",6.15302920832234,19827
+"NMD target genes","Col-0","NT","Col_NT_1_sorted.bam",6.20926280780446,300
+"NMD target genes","Col-0","NT","Col_NT_2_sorted.bam",6.27857254714434,300
+"NMD target genes","Col-0","NT","Col_NT_3_sorted.bam",6.22788641047408,300
+"NMD target genes","Col-0","P/T","Col_LAT_1_sorted.bam",6.18448577712894,300
+"NMD target genes","Col-0","P/T","Col_LAT_2_sorted.bam",6.2495339208971,300
+"NMD target genes","Col-0","P/T","Col_LAT_3_sorted.bam",6.17563479293728,300
+"NMD target genes","Col-0","P/T +1d","Col_REC_1_sorted.bam",6.57624839990662,300
+"NMD target genes","Col-0","P/T +1d","Col_REC_2_sorted.bam",6.63800144939785,300
+"NMD target genes","Col-0","P/T +1d","Col_REC_3_sorted.bam",6.5362308233456,300
+"NMD target genes","upf3","NT","UPF3_NT_1_sorted.bam",7.20671742675047,300
+"NMD target genes","upf3","NT","UPF3_NT_2_sorted.bam",7.17324735402998,300
+"NMD target genes","upf3","NT","UPF3_NT_3_sorted.bam",7.20391353653349,300
+"NMD target genes","upf3","P/T","UPF3_LAT_1_sorted.bam",7.02754978717709,300
+"NMD target genes","upf3","P/T","UPF3_LAT_2_sorted.bam",7.16639275376877,300
+"NMD target genes","upf3","P/T","UPF3_LAT_3_sorted.bam",7.09114760894087,300
+"NMD target genes","upf3","P/T +1d","UPF3_REC_1_sorted.bam",7.4209052540552,300
+"NMD target genes","upf3","P/T +1d","UPF3_REC_2_sorted.bam",7.47714004297778,300
+"NMD target genes","upf3","P/T +1d","UPF3_REC_3_sorted.bam",7.42511124557145,300
