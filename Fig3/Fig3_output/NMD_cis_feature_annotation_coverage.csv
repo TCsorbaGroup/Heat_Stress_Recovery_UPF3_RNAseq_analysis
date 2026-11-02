@@ -1,0 +1,10 @@
+"Treatment","Status","n_status_genes","n_with_annotated_3UTR","n_with_representative_3UTR_intron_call","n_RiboTaper_evaluable","n_RiboTaper_positive"
+"NT","Down",248,241,241,228,10
+"NT","Unch.",18848,17740,17740,16750,1654
+"NT","Up",606,496,496,361,92
+"LAT","Down",317,279,279,261,11
+"LAT","Unch.",19259,18042,18042,16872,1687
+"LAT","Up",547,445,445,323,61
+"REC","Down",349,324,324,310,12
+"REC","Unch.",19165,17947,17947,16814,1667
+"REC","Up",608,493,493,332,80

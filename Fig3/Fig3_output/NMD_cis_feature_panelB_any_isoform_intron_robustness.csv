@@ -1,0 +1,10 @@
+"Treatment","Status","Feature","n_total","n_positive","n_negative","percentage"
+"NT","Down","3′UTR intron (any isoform)",241,13,228,5.39419087136929
+"NT","Unch.","3′UTR intron (any isoform)",17740,2458,15282,13.8556933483653
+"NT","Up","3′UTR intron (any isoform)",496,105,391,21.1693548387097
+"LAT","Down","3′UTR intron (any isoform)",279,35,244,12.5448028673835
+"LAT","Unch.","3′UTR intron (any isoform)",18042,2496,15546,13.8343864316595
+"LAT","Up","3′UTR intron (any isoform)",445,69,376,15.5056179775281
+"REC","Down","3′UTR intron (any isoform)",324,26,298,8.02469135802469
+"REC","Unch.","3′UTR intron (any isoform)",17947,2473,15474,13.7794617484816
+"REC","Up","3′UTR intron (any isoform)",493,101,392,20.4868154158215

@@ -1,0 +1,7 @@
+"feature","Treatment","group1","group2","comparison_index","n1","n2","median1","median2","p","p_adj_BH","label"
+"Representative-transcript 3′UTR length","NT","Down","Unch.",1,241,17740,258,265,0.378882918429523,0.508469208602881,"ns"
+"Representative-transcript 3′UTR length","NT","Unch.","Up",2,17740,496,265,257,0.423724340502401,0.508469208602881,"ns"
+"Representative-transcript 3′UTR length","LAT","Down","Unch.",1,279,18042,256,264,0.226027962262089,0.452055924524179,"ns"
+"Representative-transcript 3′UTR length","LAT","Unch.","Up",2,18042,445,264,250,0.0907708553929117,0.272312566178735,"ns"
+"Representative-transcript 3′UTR length","REC","Down","Unch.",1,324,17947,262.5,264,0.643629044797526,0.643629044797526,"ns"
+"Representative-transcript 3′UTR length","REC","Unch.","Up",2,17947,493,264,246,0.0248287528816734,0.14897251729004,"ns"

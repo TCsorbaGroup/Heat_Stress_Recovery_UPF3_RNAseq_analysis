@@ -1,0 +1,7 @@
+"feature","Treatment","group1","group2","comparison_index","n1","n2","median1","median2","p","p_adj_BH","label"
+"Maximum 3′UTR length","NT","Down","Unch.",1,241,17740,271,292,0.0339522477510218,0.142538078100094,"ns"
+"Maximum 3′UTR length","NT","Unch.","Up",2,17740,496,292,299.5,0.768359632342286,0.853613792769395,"ns"
+"Maximum 3′UTR length","LAT","Down","Unch.",1,279,18042,280,291,0.853613792769395,0.853613792769395,"ns"
+"Maximum 3′UTR length","LAT","Unch.","Up",2,18042,445,291,281,0.57146068251904,0.853613792769395,"ns"
+"Maximum 3′UTR length","REC","Down","Unch.",1,324,17947,274.5,292,0.0475126927000315,0.142538078100094,"ns"
+"Maximum 3′UTR length","REC","Unch.","Up",2,17947,493,292,277,0.689632095075598,0.853613792769395,"ns"

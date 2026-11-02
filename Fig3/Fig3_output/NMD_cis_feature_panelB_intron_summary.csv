@@ -1,0 +1,10 @@
+"Treatment","Status","Feature","n_total","n_positive","n_negative","percentage"
+"NT","Down","3′UTR intron (representative transcript)",241,2,239,0.829875518672199
+"NT","Unch.","3′UTR intron (representative transcript)",17740,755,16985,4.25591882750846
+"NT","Up","3′UTR intron (representative transcript)",496,51,445,10.2822580645161
+"LAT","Down","3′UTR intron (representative transcript)",279,10,269,3.584229390681
+"LAT","Unch.","3′UTR intron (representative transcript)",18042,775,17267,4.29553264604811
+"LAT","Up","3′UTR intron (representative transcript)",445,34,411,7.64044943820225
+"REC","Down","3′UTR intron (representative transcript)",324,6,318,1.85185185185185
+"REC","Unch.","3′UTR intron (representative transcript)",17947,771,17176,4.29598261547891
+"REC","Up","3′UTR intron (representative transcript)",493,42,451,8.51926977687627

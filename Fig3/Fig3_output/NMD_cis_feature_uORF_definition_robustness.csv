@@ -1,0 +1,37 @@
+"definition","Treatment","Status","n_status_genes","n_evaluable","n_positive","percentage"
+"Ribo-seq uORF (RiboTaper)","NT","Down",248,228,10,4.3859649122807
+"Ribo-seq uORF (RiboTaper)","NT","Unch.",18848,16750,1654,9.87462686567164
+"Ribo-seq uORF (RiboTaper)","NT","Up",606,361,92,25.4847645429363
+"Ribo-seq uORF (RiboTaper)","LAT","Down",317,261,11,4.21455938697318
+"Ribo-seq uORF (RiboTaper)","LAT","Unch.",19259,16872,1687,9.99881460407776
+"Ribo-seq uORF (RiboTaper)","LAT","Up",547,323,61,18.8854489164087
+"Ribo-seq uORF (RiboTaper)","REC","Down",349,310,12,3.87096774193548
+"Ribo-seq uORF (RiboTaper)","REC","Unch.",19165,16814,1667,9.91435708338289
+"Ribo-seq uORF (RiboTaper)","REC","Up",608,332,80,24.0963855421687
+"Ribo-seq uORF (CiPS)","NT","Down",248,228,33,14.4736842105263
+"Ribo-seq uORF (CiPS)","NT","Unch.",18848,16787,4299,25.6091022815274
+"Ribo-seq uORF (CiPS)","NT","Up",606,376,150,39.8936170212766
+"Ribo-seq uORF (CiPS)","LAT","Down",317,261,42,16.0919540229885
+"Ribo-seq uORF (CiPS)","LAT","Unch.",19259,16920,4352,25.7210401891253
+"Ribo-seq uORF (CiPS)","LAT","Up",547,328,96,29.2682926829268
+"Ribo-seq uORF (CiPS)","REC","Down",349,311,49,15.7556270096463
+"Ribo-seq uORF (CiPS)","REC","Unch.",19165,16856,4319,25.6229235880399
+"Ribo-seq uORF (CiPS)","REC","Up",608,342,122,35.672514619883
+"Ribo-seq uORF (CiPS, >=10 aa)","NT","Down",248,228,21,9.21052631578947
+"Ribo-seq uORF (CiPS, >=10 aa)","NT","Unch.",18848,16774,2624,15.643257422201
+"Ribo-seq uORF (CiPS, >=10 aa)","NT","Up",606,374,123,32.8877005347594
+"Ribo-seq uORF (CiPS, >=10 aa)","LAT","Down",317,260,24,9.23076923076923
+"Ribo-seq uORF (CiPS, >=10 aa)","LAT","Unch.",19259,16908,2673,15.8090844570617
+"Ribo-seq uORF (CiPS, >=10 aa)","LAT","Up",547,326,77,23.6196319018405
+"Ribo-seq uORF (CiPS, >=10 aa)","REC","Down",349,311,31,9.96784565916399
+"Ribo-seq uORF (CiPS, >=10 aa)","REC","Unch.",19165,16843,2644,15.6979160482099
+"Ribo-seq uORF (CiPS, >=10 aa)","REC","Up",608,340,99,29.1176470588235
+"Ribo-seq uORF (RiboTaper or CiPS)","NT","Down",248,228,35,15.3508771929825
+"Ribo-seq uORF (RiboTaper or CiPS)","NT","Unch.",18848,16808,4463,26.5528319847692
+"Ribo-seq uORF (RiboTaper or CiPS)","NT","Up",606,383,163,42.5587467362924
+"Ribo-seq uORF (RiboTaper or CiPS)","LAT","Down",317,262,46,17.5572519083969
+"Ribo-seq uORF (RiboTaper or CiPS)","LAT","Unch.",19259,16942,4520,26.6792586471491
+"Ribo-seq uORF (RiboTaper or CiPS)","LAT","Up",547,334,105,31.437125748503
+"Ribo-seq uORF (RiboTaper or CiPS)","REC","Down",349,311,50,16.0771704180064
+"Ribo-seq uORF (RiboTaper or CiPS)","REC","Unch.",19165,16874,4480,26.5497214649757
+"Ribo-seq uORF (RiboTaper or CiPS)","REC","Up",608,353,141,39.943342776204
