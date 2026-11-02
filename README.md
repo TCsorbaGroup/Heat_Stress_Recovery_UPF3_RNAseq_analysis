@@ -7,6 +7,6 @@ Syed Hussam Abbas, Henrik Mihály Szaker, Éva Darkó, Tünde Erős, Dániel Sil
 Tibor Csorba
 
 It also includes the input and output files. 
-For a rerun of the analysis save the input files in the working directory. 
+For a rerun of the analysis save the input files in the working directory and start with DESeq2.
 The output of some scripts are inputs of others, so try to proceed in numerical/alphabetical order for convenience.
 
