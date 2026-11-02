@@ -1,6 +1,6 @@
 # Heat_Stress_Recovery_UPF3_RNAseq_analysis
 
-This repository contains all R codes used for the analysis described in the article:
+This repository contains all R codes used for the analysis described in the article manuscript:
 
 Ambivalent roles of nonsense-mediated mRNA decay in heat stress tolerance
 Syed Hussam Abbas, Henrik Mihály Szaker, Éva Darkó, Tünde Erős, Dániel Silhavy,
