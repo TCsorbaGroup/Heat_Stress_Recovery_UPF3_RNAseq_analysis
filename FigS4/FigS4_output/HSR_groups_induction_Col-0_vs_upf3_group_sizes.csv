@@ -1,0 +1,8 @@
+"group","n_genes_used"
+"ChIP only (no HSR class)",185
+"Delayed, ChIP-bound",54
+"Delayed, not bound",1075
+"Sustained, ChIP-bound",100
+"Sustained, not bound",523
+"Transient (acute), ChIP-bound",11
+"Transient (acute), not bound",653

@@ -1,0 +1,71 @@
+"Cluster","n_genes","GeneGroup","n_total_group","percentage","cell_label"
+"Cluster 1",17,"HS responsive",2416,0.70364238410596,"n = 17
+0.7%"
+"Cluster 2",263,"HS responsive",2416,10.885761589404,"n = 263
+10.9%"
+"Cluster 3",5,"HS responsive",2416,0.206953642384106,"n = 5
+0.2%"
+"Cluster 4",266,"HS responsive",2416,11.0099337748344,"n = 266
+11.0%"
+"Cluster 5",45,"HS responsive",2416,1.86258278145695,"n = 45
+1.9%"
+"Cluster 6",317,"HS responsive",2416,13.1208609271523,"n = 317
+13.1%"
+"Outside top 2000",1503,"HS responsive",2416,62.2102649006623,"n = 1503
+62.2%"
+"Cluster 1",17,"Acute HS responsive",664,2.56024096385542,"n = 17
+2.6%"
+"Cluster 2",10,"Acute HS responsive",664,1.50602409638554,"n = 10
+1.5%"
+"Cluster 3",0,"Acute HS responsive",664,0,"n = 0
+0.0%"
+"Cluster 4",1,"Acute HS responsive",664,0.150602409638554,"n = 1
+0.2%"
+"Cluster 5",13,"Acute HS responsive",664,1.9578313253012,"n = 13
+2.0%"
+"Cluster 6",208,"Acute HS responsive",664,31.3253012048193,"n = 208
+31.3%"
+"Outside top 2000",415,"Acute HS responsive",664,62.5,"n = 415
+62.5%"
+"Cluster 1",0,"Sustained HS responsive",623,0,"n = 0
+0.0%"
+"Cluster 2",210,"Sustained HS responsive",623,33.7078651685393,"n = 210
+33.7%"
+"Cluster 3",0,"Sustained HS responsive",623,0,"n = 0
+0.0%"
+"Cluster 4",14,"Sustained HS responsive",623,2.24719101123596,"n = 14
+2.2%"
+"Cluster 5",6,"Sustained HS responsive",623,0.963081861958267,"n = 6
+1.0%"
+"Cluster 6",109,"Sustained HS responsive",623,17.4959871589085,"n = 109
+17.5%"
+"Outside top 2000",284,"Sustained HS responsive",623,45.5858747993579,"n = 284
+45.6%"
+"Cluster 1",0,"Delayed HS responsive",1129,0,"n = 0
+0.0%"
+"Cluster 2",43,"Delayed HS responsive",1129,3.80868024800709,"n = 43
+3.8%"
+"Cluster 3",5,"Delayed HS responsive",1129,0.442869796279894,"n = 5
+0.4%"
+"Cluster 4",251,"Delayed HS responsive",1129,22.2320637732507,"n = 251
+22.2%"
+"Cluster 5",26,"Delayed HS responsive",1129,2.30292294065545,"n = 26
+2.3%"
+"Cluster 6",0,"Delayed HS responsive",1129,0,"n = 0
+0.0%"
+"Outside top 2000",804,"Delayed HS responsive",1129,71.2134632418069,"n = 804
+71.2%"
+"Cluster 1",513,"Other expressed",17711,2.89650499689459,"n = 513
+2.9%"
+"Cluster 2",39,"Other expressed",17711,0.22020213426684,"n = 39
+0.2%"
+"Cluster 3",171,"Other expressed",17711,0.965501665631528,"n = 171
+1.0%"
+"Cluster 4",87,"Other expressed",17711,0.491220145672181,"n = 87
+0.5%"
+"Cluster 5",234,"Other expressed",17711,1.32121280560104,"n = 234
+1.3%"
+"Cluster 6",43,"Other expressed",17711,0.242786968550618,"n = 43
+0.2%"
+"Outside top 2000",16624,"Other expressed",17711,93.8625712833832,"n = 16624
+93.9%"

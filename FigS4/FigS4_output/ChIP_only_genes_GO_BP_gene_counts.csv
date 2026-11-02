@@ -1,0 +1,8 @@
+"item","n_genes"
+"Input ChIP-only genes",215
+"Input genes matching valid TAIR IDs",205
+"Genes used in GO BP test",153
+"Input genes not matching valid TAIR IDs",10
+"Valid TAIR genes without GO BP annotation",52
+"Genome-wide TAIR genes in org.At.tair.db",27416
+"Genome-wide genes with GO BP annotation",21192

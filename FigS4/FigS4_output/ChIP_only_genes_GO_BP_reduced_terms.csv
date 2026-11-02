@@ -1,0 +1,21 @@
+"GO_ID","Description","p.adjust","Count","GeneRatio","n_terms_collapsed","log10FDR"
+"GO:0009408","response to heat",0.000132778988058545,13,"13/153",2,3.87687064554197
+"GO:0006096","glycolytic process",0.000132778988058545,6,"6/153",15,3.87687064554197
+"GO:0009179","purine ribonucleoside diphosphate metabolic process",0.000132778988058545,6,"6/153",12,3.87687064554197
+"GO:0072526","pyridine-containing compound catabolic process",0.000137393146242778,6,"6/153",5,3.86203493120065
+"GO:0046434","organophosphate catabolic process",0.00032719018142455,7,"7/153",3,3.48519973744912
+"GO:0006090","pyruvate metabolic process",0.000572850957798928,6,"6/153",1,3.24195835643599
+"GO:0046034","ATP metabolic process",0.00101201125992491,6,"6/153",1,2.9948146553855
+"GO:0006091","generation of precursor metabolites and energy",0.00180304452633562,12,"12/153",4,2.74399354820656
+"GO:0009414","response to water deprivation",0.00311261838693346,12,"12/153",2,2.5068741214017
+"GO:0001666","response to hypoxia",0.00357985812218845,9,"9/153",6,2.44613418508005
+"GO:1901136","carbohydrate derivative catabolic process",0.00567338187308216,6,"6/153",2,2.24615798326224
+"GO:0006094","gluconeogenesis",0.0123615389032123,3,"3/153",2,1.90792746002629
+"GO:0042548","regulation of photosynthesis, light reaction",0.0196481276379241,3,"3/153",5,1.70667882927131
+"GO:0007052","mitotic spindle organization",0.021238081527551,3,"3/153",3,1.67288471638664
+"GO:0010557","positive regulation of macromolecule biosynthetic process",0.0272690569208717,10,"10/153",1,1.56432988153559
+"GO:0045935","positive regulation of nucleobase-containing compound metabolic process",0.0272690569208717,10,"10/153",2,1.56432988153559
+"GO:0032527","protein exit from endoplasmic reticulum",0.0294955491331528,2,"2/153",1,1.53024351394548
+"GO:0042044","fluid transport",0.0304877958723052,3,"3/153",2,1.51587397199725
+"GO:0048585","negative regulation of response to stimulus",0.030738834520833,7,"7/153",3,1.51231260302907
+"GO:0010117","photoprotection",0.0489062499864574,2,"2/153",1,1.3106356365577
