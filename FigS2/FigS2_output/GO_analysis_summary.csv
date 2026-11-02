@@ -1,0 +1,19 @@
+"analysis","treatment_code","treatment_label","direction","ontology","input_DEGs","GO_terms_returned","significant_GO_terms_FDR_lt_0_05"
+"NT_Up_BP","NT","NT","Up","BP",606,939,2
+"NT_Up_CC","NT","NT","Up","CC",606,131,0
+"NT_Up_MF","NT","NT","Up","MF",606,362,0
+"NT_Down_BP","NT","NT","Down","BP",248,698,39
+"NT_Down_CC","NT","NT","Down","CC",248,58,0
+"NT_Down_MF","NT","NT","Down","MF",248,251,8
+"LAT_Up_BP","LAT","P/T","Up","BP",547,951,64
+"LAT_Up_CC","LAT","P/T","Up","CC",547,131,0
+"LAT_Up_MF","LAT","P/T","Up","MF",547,355,1
+"LAT_Down_BP","LAT","P/T","Down","BP",317,704,6
+"LAT_Down_CC","LAT","P/T","Down","CC",317,102,0
+"LAT_Down_MF","LAT","P/T","Down","MF",317,246,5
+"REC_Up_BP","REC","P/T +1d","Up","BP",608,947,60
+"REC_Up_CC","REC","P/T +1d","Up","CC",608,111,0
+"REC_Up_MF","REC","P/T +1d","Up","MF",608,366,14
+"REC_Down_BP","REC","P/T +1d","Down","BP",349,825,36
+"REC_Down_CC","REC","P/T +1d","Down","CC",349,71,1
+"REC_Down_MF","REC","P/T +1d","Down","MF",349,275,25
