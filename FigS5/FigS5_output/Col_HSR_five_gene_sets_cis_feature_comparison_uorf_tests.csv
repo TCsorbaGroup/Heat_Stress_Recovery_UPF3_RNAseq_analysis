@@ -1,0 +1,5 @@
+"Feature","Group","reference_group","n_reference","reference_positive","n_group","group_positive","odds_ratio_group_vs_reference","CI_low","CI_high","p_value","p_adj_BH","significance"
+"RiboTaper-supported uORF","HS responsive genes","Other expressed genes",15868,1603,1585,156,0.971470899919766,0.811661036803509,1.15656258446095,0.79288914635584,0.79288914635584,"ns"
+"RiboTaper-supported uORF","Acute HS responsive genes","Other expressed genes",15868,1603,381,42,1.10248396607742,0.777003182526114,1.52953312560439,0.547266572883697,0.79288914635584,"ns"
+"RiboTaper-supported uORF","Sustained HS responsive genes","Other expressed genes",15868,1603,397,42,1.05284317968167,0.742585087997634,1.45925321466733,0.736071164223143,0.79288914635584,"ns"
+"RiboTaper-supported uORF","Delayed HS responsive genes","Other expressed genes",15868,1603,807,72,0.871770143955194,0.670867084859572,1.11835542174553,0.307289483936235,0.79288914635584,"ns"

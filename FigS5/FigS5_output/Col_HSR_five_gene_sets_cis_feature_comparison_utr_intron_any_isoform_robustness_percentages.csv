@@ -1,0 +1,6 @@
+"Feature","Group","n_total","n_positive","n_negative","percentage"
+"3'UTR intron (any isoform)","Other expressed genes",16721,2279,14442,13.6295676095927
+"3'UTR intron (any isoform)","HS responsive genes",2046,321,1725,15.6891495601173
+"3'UTR intron (any isoform)","Acute HS responsive genes",526,86,440,16.3498098859316
+"3'UTR intron (any isoform)","Sustained HS responsive genes",530,79,451,14.9056603773585
+"3'UTR intron (any isoform)","Delayed HS responsive genes",990,156,834,15.7575757575758

@@ -1,0 +1,6 @@
+"Feature","Group","n_total","n_positive","n_negative","percentage"
+"RiboTaper-supported uORF","Other expressed genes",15868,1603,14265,10.1020922611545
+"RiboTaper-supported uORF","HS responsive genes",1585,156,1429,9.84227129337539
+"RiboTaper-supported uORF","Acute HS responsive genes",381,42,339,11.0236220472441
+"RiboTaper-supported uORF","Sustained HS responsive genes",397,42,355,10.5793450881612
+"RiboTaper-supported uORF","Delayed HS responsive genes",807,72,735,8.92193308550186

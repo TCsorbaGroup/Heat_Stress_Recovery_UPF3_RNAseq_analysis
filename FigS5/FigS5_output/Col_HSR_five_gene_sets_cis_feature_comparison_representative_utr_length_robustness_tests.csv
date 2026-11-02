@@ -1,0 +1,5 @@
+"Feature","Group","reference_group","n_reference","n_group","median_reference","median_group","p_value","p_adj_BH","significance"
+"Representative-transcript 3'UTR length","HS responsive genes","Other expressed genes",16721,2046,265,251,9.15209315100262e-08,1.83041863020052e-07,"***"
+"Representative-transcript 3'UTR length","Acute HS responsive genes","Other expressed genes",16721,526,265,242,3.14026945020532e-09,1.25610778008213e-08,"***"
+"Representative-transcript 3'UTR length","Sustained HS responsive genes","Other expressed genes",16721,530,265,257,0.24293217969301,0.24293217969301,"ns"
+"Representative-transcript 3'UTR length","Delayed HS responsive genes","Other expressed genes",16721,990,265,256.5,0.00507879279478463,0.00677172372637951,"**"

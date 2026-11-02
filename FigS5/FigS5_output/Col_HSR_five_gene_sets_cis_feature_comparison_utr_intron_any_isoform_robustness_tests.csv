@@ -1,0 +1,5 @@
+"Feature","Group","reference_group","n_reference","reference_positive","n_group","group_positive","odds_ratio_group_vs_reference","CI_low","CI_high","p_value","p_adj_BH","significance"
+"3'UTR intron (any isoform)","HS responsive genes","Other expressed genes",16721,2279,2046,321,1.17922240051285,1.03518871501626,1.34037266798004,0.0120942788572191,0.0483771154288762,"*"
+"3'UTR intron (any isoform)","Acute HS responsive genes","Other expressed genes",16721,2279,526,86,1.23856224824002,0.967190692850286,1.57094712227086,0.0818624265607216,0.109149902080962,"ns"
+"3'UTR intron (any isoform)","Sustained HS responsive genes","Other expressed genes",16721,2279,530,79,1.11005435603783,0.859098967236946,1.41881693284244,0.4036254381997,0.4036254381997,"ns"
+"3'UTR intron (any isoform)","Delayed HS responsive genes","Other expressed genes",16721,2279,990,156,1.1852962771627,0.986959213922806,1.41644864928469,0.0638286965924974,0.109149902080962,"ns"

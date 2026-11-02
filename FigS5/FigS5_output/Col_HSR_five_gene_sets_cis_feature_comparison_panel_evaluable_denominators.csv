@@ -1,0 +1,6 @@
+"Group","n_genes_in_group","n_with_annotated_3UTR","n_with_representative_transcript","n_RiboTaper_evaluable","n_RiboTaper_positive"
+"Other expressed genes",17701,16721,16721,15868,1603
+"HS responsive genes",2416,2046,2046,1585,156
+"Acute HS responsive genes",664,526,526,381,42
+"Sustained HS responsive genes",623,530,530,397,42
+"Delayed HS responsive genes",1129,990,990,807,72
